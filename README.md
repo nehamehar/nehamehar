@@ -8,7 +8,7 @@
 ## <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="32"> About Me
 Hi! I'm **Neha Mehar**, a **Frontend developer** skilled in React.js and JavaScript, passionate about building fast and responsive user interfaces.
 ## 🔗 Links
-- 📄 **[Resume](https://drive.google.com/file/d/1U8SujI3Nait89k0QDKduWrHD0EGxf0Dn/view?usp=sharing)**
+- 📄 **[Resume](https://drive.google.com/file/d/137u2qdxDfnZ22bGkVXFqP7oc_QiAatdU/view?usp=sharing)**
 - 🏆 **[LeetCode](https://leetcode.com/u/nehamehar)**
 - 📧 **[Email](mailto:nehamehar31@gmail.com)**
 
